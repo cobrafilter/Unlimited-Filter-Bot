@@ -247,7 +247,7 @@ async def help(client, message):
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/GreyMatter_Bots"),
+                    InlineKeyboardButton("BOT Channel", url="https://t.me/thespeeedmovies"),
                     InlineKeyboardButton("Support Group", url="https://t.me/greymatter_support")
                 ]
             ]
