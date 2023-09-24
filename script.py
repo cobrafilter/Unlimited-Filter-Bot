@@ -1,9 +1,9 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """<b>Hey {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+I'm an advanced Movies Provider Support only Supergroup 
+Developer:- @Sunnyseee
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -48,13 +48,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @GreyMatter_Bots</b>
+<b>© @sunnyseee</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : See Filter Bot</b>
 
-⭕️<b>Creater :</b> @GreyMatter_Bots    
+⭕️<b>Creater :</b> @Sunnyseee    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
